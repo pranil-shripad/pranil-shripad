@@ -5,12 +5,12 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Ubuntu&weight=600&size=40&color=DE5C7A&center=true&vCenter=true&width=600&height=80&duration=1&repeat=false&lines=Pranil+Shripad" alt="Pranil Shripad" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&weight=600&size=40&color=DE5C7A&center=true&vCenter=true&width=600&height=80&duration=1&repeat=false&lines=Pranil+Shripad" alt="Pranil Shripad" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Ubuntu&weight=500&size=25&pause=1000&color=DE5C7A&center=true&vCenter=true&width=800&height=50&lines=Cybersecurity+Engineer+%C3%97+Full-Stack+Dev;AI%2FML+%7C+Blockchain+%7C+Web3+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=DM+Serif+Display&weight=500&size=25&pause=1000&color=DE5C7A&center=true&vCenter=true&width=800&height=50&lines=Cybersecurity+Engineer+%C3%97+Full-Stack+Dev;AI%2FML+%7C+Blockchain+%7C+Web3+Builder" alt="Typing SVG" />
   </a>
 </p>
 
