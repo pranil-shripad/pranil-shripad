@@ -1,42 +1,53 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         HEADER · NEOFETCH                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     ANIMATED HEADER                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=PRANIL&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=hacker%20%7C%20builder%20%7C%20breaker&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+
+<!-- TYPING SVG -->
+<a href="https://github.com/pranil-shripad">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%24+sudo+hack+the+planet+%F0%9F%8C%8D;%24+while(alive)+%7B+eat();+sleep();+code();+%7D;%24+git+commit+-m+%22mass+destruction%22+%F0%9F%92%80;%24+rm+-rf+bugs+%26%26+deploy+--force+%F0%9F%9A%80" />
+</a>
+
+<br>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     NEOFETCH + MEME GIF                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <table>
 <tr>
-<td width="360" align="center">
+<td width="55%">
 
-```
-          ╭──────────────╮
-          │   ┌───────┐  │
-          │   │ ░░░░░░ │  │
-          │   │ ░ >_ ░ │  │
-          │   │ ░░░░░░ │  │
-          │   └───────┘  │
-          │  ┌─┐ ┌─┐ ┌─┐│
-          │  └─┘ └─┘ └─┘│
-          ╰──────────────╯
+```properties
+pranil@kali:~$ neofetch
+─────────────────────────────────────
+ ██████╗ ██████╗  █████╗ ███╗   ██╗██╗██╗
+ ██╔══██╗██╔══██╗██╔══██╗████╗  ██║██║██║
+ ██████╔╝██████╔╝███████║██╔██╗ ██║██║██║
+ ██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██║██║
+ ██║     ██║  ██║██║  ██║██║ ╚████║██║███████╗
+ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝
+─────────────────────────────────────
+ OS       → Kali Linux (Cybersecurity UG)
+ Host     → github.com/pranil-shripad
+ Kernel   → AI/ML × Blockchain × Full-Stack
+ Shell    → zsh + neovim
+ Uptime   → 24/7 building & breaking things
+ Packages → SaaS · AI Tools · Web3 Dapps
+ Theme    → Dark [always] 🌙
+ Terminal → the one that never closes
+ Status   → probably debugging rn 🐛
 ```
 
 </td>
-<td>
+<td width="45%" align="center">
 
-```properties
-pranil@github
-─────────────────────────
-OS        ~ Cybersecurity Undergrad (CSE)
-Host      ~ github.com/pranil-shripad
-Kernel    ~ AI/ML × Blockchain × Full-Stack
-Shell     ~ zsh + neovim
-Uptime    ~ 24/7 building & breaking things
-Packages  ~ SaaS · AI Tools · Web3 Systems
-Theme     ~ Dark [always]
-Terminal  ~ the one that never closes
-```
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
+
+<sub><b>me deploying to production at 3am</b></sub>
 
 </td>
 </tr>
@@ -44,111 +55,42 @@ Terminal  ~ the one that never closes
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          INTRO & VIBE                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         WHO AM I                                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTN2OWRpbGVrMmpqaGlhd2N3Y2h1cDl5dXVhMmQwcGxiN2V1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
-
-<br>
-
-```
-> whoami
-```
-
-**I build things that sit at the intersection of intelligence, security, and decentralization.**
-
-Shipping SaaS products, training models, writing smart contracts — <br>
-usually all before my coffee gets cold.
-
-<br clear="right"/>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                           TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-### `⚙️ tech_stack`
-
----
-
-**`AI / ML`**
-
-<p>
-<a href="#"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" /></a>
-</p>
-
-**`Blockchain`**
-
-<p>
-<a href="#"><img src="https://skillicons.dev/icons?i=solidity&theme=dark" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" height="48"/>
-</p>
-
-**`Development`**
-
-<p>
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,typescript,tailwind,mongodb,postgres,docker,git&theme=dark" /></a>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS & STREAKS                      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-### `📊 stats`
-
----
-
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranil-shripad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70a5fd&icon_color=bf91f3&text_color=8b949e&ring_color=70a5fd" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=pranil-shripad&theme=tokyonight&hide_border=true&background=00000000&stroke=30363d&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=8b949e&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-</p>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranil-shripad&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70a5fd&text_color=8b949e&langs_count=8" />
+<img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=pranil-shripad&data=followers,repositories,stars,commits&theme=darkmode" />
 
 <br><br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-### `🚀 featured_projects`
-
----
-
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="60%">
 
-**🧠 NeuralForge**
+### ⚡ `> whoami`
 
-AI-powered content generation engine built with PyTorch & FastAPI. Real-time inference, fine-tuned transformers, sleek dashboard.
-
-[![View](https://img.shields.io/badge/→_repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranil-shripad)
+```js
+const pranil = {
+    role: "Cybersecurity Engineer × Full-Stack Dev",
+    code: ["Python", "JavaScript", "TypeScript", "Solidity", "C++"],
+    askMeAbout: ["AI/ML", "blockchain", "hacking", "web dev", "SaaS"],
+    dailyRoutine: [
+        "☕ coffee",
+        "💻 code",
+        "🔓 hack",
+        "🐛 debug",
+        "🔁 repeat"
+    ],
+    funFact: "I mass mass produce bugs, its a feature not a bug🐛"
+};
+```
 
 </td>
-<td width="33%" align="center">
+<td width="40%" align="center">
 
-**⛓️ ChainVault**
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280"/>
 
-Decentralized asset management on Ethereum. Solidity smart contracts, Web3 frontend, gasless meta-transactions.
-
-[![View](https://img.shields.io/badge/→_repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranil-shripad)
-
-</td>
-<td width="33%" align="center">
-
-**⚡ ShipFast**
-
-Full-stack SaaS boilerplate — auth, billing, dashboards, dark mode — all wired up, ready to launch in hours.
-
-[![View](https://img.shields.io/badge/→_repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranil-shripad)
+<sub><b>me explaining my code to the reviewer</b></sub>
 
 </td>
 </tr>
@@ -156,13 +98,162 @@ Full-stack SaaS boilerplate — auth, billing, dashboards, dark mode — all wir
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                            CONNECT                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        TECH STACK                               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-### `🔗 connect`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+### 🛠️ `tech_arsenal`
+
+<br>
+
+**`🧠 AI / ML`**
+<p>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" /></a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge" height="48"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48"/>
+</p>
+
+**`⛓️ Blockchain`**
+<p>
+<a href="#"><img src="https://skillicons.dev/icons?i=solidity&theme=dark" /></a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" height="48"/>
+</p>
+
+**`🚀 Development`**
+<p>
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,typescript,tailwind,mongodb,postgres,docker,git,linux,bash&theme=dark" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     GITHUB STATS (BENTO GRID)                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+### 📊 `git log --stat`
+
+<br>
+
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranil-shripad&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=pranil-shripad&theme=radical&hide_border=true&background=0d1117&stroke=30363d&ring=a855f7&fire=f97316&currStreakLabel=a855f7&sideLabels=a855f7&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+</p>
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranil-shripad&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" />
+
+<br>
+
+<!-- ACTIVITY GRAPH -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranil-shripad&theme=react-dark&bg_color=0d1117&color=a855f7&line=a855f7&point=f97316&area=true&area_color=a855f7&hide_border=true" />
+
+<br><br>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       FEATURED PROJECTS                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🚀 `ls ~/projects --featured`
+
+<br>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" height="80"/>
+
+**🧠 NeuralForge**
+
+AI-powered content generation engine. PyTorch + FastAPI. Real-time inference with fine-tuned transformers.
+
+*`python` `pytorch` `fastapi`*
+
+[![View](https://img.shields.io/badge/→_explore-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranil-shripad)
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://media.giphy.com/media/trN9ht5RlE3Dcwavg2/giphy.gif" width="80" height="80"/>
+
+**⛓️ ChainVault**
+
+Decentralized asset management on Ethereum. Solidity smart contracts + gasless meta-txns.
+
+*`solidity` `web3.js` `react`*
+
+[![View](https://img.shields.io/badge/→_explore-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranil-shripad)
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80" height="80"/>
+
+**⚡ ShipFast**
+
+Full-stack SaaS boilerplate — auth, billing, dashboards, dark mode. Ready in hours.
+
+*`nextjs` `typescript` `stripe`*
+
+[![View](https://img.shields.io/badge/→_explore-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranil-shripad)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     TROPHY + MEME COMBO                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+### 🏆 `cat ~/achievements.log`
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pranil-shripad&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="300"/>
+
+<sub><b>my code in production</b></sub>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+
+<sub><b>me after fixing a bug by adding a random semicolon</b></sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          CONNECT                                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🔗 `ssh pranil@internet`
+
+<br>
 
 <p>
 <a href="https://linkedin.com/in/pranil-shripad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -174,10 +265,14 @@ Full-stack SaaS boilerplate — auth, billing, dashboards, dark mode — all wir
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=pranil-shripad&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=100&section=footer" width="100%"/>
+<br><br>
 
-<sub>crafted with precision · powered by caffeine</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="60"/>
+
+<sub><b>*"Talk is cheap. Show me the code."* — Linus Torvalds</b></sub>
 
 </div>
