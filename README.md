@@ -4,12 +4,24 @@
 <!-- ║                     ANIMATED HEADER                             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=PRANIL&fontSize=80&fontColor=1a1b27&animation=twinkling&fontAlignY=35&desc=hacker%20%7C%20builder%20%7C%20breaker&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Ubuntu&weight=600&size=40&color=DE5C7A&center=true&vCenter=true&width=600&height=80&duration=1&repeat=false&lines=Pranil+Shripad" alt="Pranil Shripad" />
+</p>
 
-<!-- TYPING SVG -->
-<a href="https://github.com/pranil-shripad">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=120&lines=%24+sudo+hack+the+planet+%F0%9F%8C%8D;%24+while(alive)+%7B+eat();+sleep();+code();+%7D;%24+git+commit+-m+%22mass+destruction%22+%F0%9F%92%80;%24+rm+-rf+bugs+%26%26+deploy+--force+%F0%9F%9A%80" />
-</a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Ubuntu&weight=500&size=25&pause=1000&color=DE5C7A&center=true&vCenter=true&width=800&height=50&lines=Cybersecurity+Engineer+%C3%97+Full-Stack+Dev;AI%2FML+%7C+Blockchain+%7C+Web3+Builder" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Social icons -->
+<p align="center">
+  <a href="https://linkedin.com/in/pranil-shripad"><img width="42px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>
+  &#8287;&#8287;&#8287;
+  <a href="https://x.com/"><img width="42px" alt="X" title="X" src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>
+  &#8287;&#8287;&#8287;
+  <a href="mailto:pranilshripad35@gmail.com"><img width="42px" alt="Gmail" title="Gmail" src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
+</p>
 
 <br>
 
@@ -71,17 +83,11 @@ pranil@kali:~$ neofetch
 
 ```js
 const pranil = {
-    role: "Cybersecurity Engineer × Full-Stack Dev",
-    code: ["Python", "JavaScript", "TypeScript", "Solidity", "C++"],
-    askMeAbout: ["AI/ML", "blockchain", "hacking", "web dev", "SaaS"],
-    dailyRoutine: [
-        "☕ coffee",
-        "💻 code",
-        "🔓 hack",
-        "🐛 debug",
-        "🔁 repeat"
-    ],
-    funFact: "I mass mass produce bugs, its a feature not a bug🐛"
+  role: "Cybersecurity Engineer × Full-Stack Dev",
+  code: ["Python", "JavaScript", "TypeScript", "Solidity", "C++"],
+  askMeAbout: ["AI/ML", "blockchain", "hacking", "web dev", "SaaS"],
+  dailyRoutine: ["☕ coffee", "💻 code", "🔓 hack", "🐛 debug", "🔁 repeat"],
+  funFact: "I mass mass produce bugs, its a feature not a bug🐛",
 };
 ```
 
@@ -109,6 +115,7 @@ const pranil = {
 <br>
 
 **`🧠 AI / ML`**
+
 <p>
 <a href="#"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" /></a>
 &nbsp;&nbsp;
@@ -117,6 +124,7 @@ const pranil = {
 </p>
 
 **`⛓️ Blockchain`**
+
 <p>
 <a href="#"><img src="https://skillicons.dev/icons?i=solidity&theme=dark" /></a>
 &nbsp;&nbsp;
@@ -126,6 +134,7 @@ const pranil = {
 </p>
 
 **`🚀 Development`**
+
 <p>
 <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,typescript,tailwind,mongodb,postgres,docker,git,linux,bash&theme=dark" /></a>
 </p>
@@ -160,6 +169,7 @@ const pranil = {
 <!-- ║                       FEATURED PROJECTS                         ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
+<!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🚀 `ls ~/projects --featured`
@@ -176,7 +186,7 @@ const pranil = {
 
 AI-powered content generation engine. PyTorch + FastAPI. Real-time inference with fine-tuned transformers.
 
-*`python` `pytorch` `fastapi`*
+_`python` `pytorch` `fastapi`_
 
 [![View](https://img.shields.io/badge/→_explore-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranil-shripad)
 
@@ -189,7 +199,7 @@ AI-powered content generation engine. PyTorch + FastAPI. Real-time inference wit
 
 Decentralized asset management on Ethereum. Solidity smart contracts + gasless meta-txns.
 
-*`solidity` `web3.js` `react`*
+_`solidity` `web3.js` `react`_
 
 [![View](https://img.shields.io/badge/→_explore-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranil-shripad)
 
@@ -202,13 +212,14 @@ Decentralized asset management on Ethereum. Solidity smart contracts + gasless m
 
 Full-stack SaaS boilerplate — auth, billing, dashboards, dark mode. Ready in hours.
 
-*`nextjs` `typescript` `stripe`*
+_`nextjs` `typescript` `stripe`_
 
 [![View](https://img.shields.io/badge/→_explore-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranil-shripad)
 
 </td>
 </tr>
 </table>
+-->
 
 <br>
 
@@ -273,6 +284,6 @@ Full-stack SaaS boilerplate — auth, billing, dashboards, dark mode. Ready in h
 
 <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="60"/>
 
-<sub><b>*"Talk is cheap. Show me the code."* — Linus Torvalds</b></sub>
+<sub><b>_"Talk is cheap. Show me the code."_ — Linus Torvalds</b></sub>
 
 </div>
