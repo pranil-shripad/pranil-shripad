@@ -4,11 +4,11 @@
 <!-- ║                     ANIMATED HEADER                             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=PRANIL&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=hacker%20%7C%20builder%20%7C%20breaker&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=PRANIL&fontSize=80&fontColor=1a1b27&animation=twinkling&fontAlignY=35&desc=hacker%20%7C%20builder%20%7C%20breaker&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://github.com/pranil-shripad">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%24+sudo+hack+the+planet+%F0%9F%8C%8D;%24+while(alive)+%7B+eat();+sleep();+code();+%7D;%24+git+commit+-m+%22mass+destruction%22+%F0%9F%92%80;%24+rm+-rf+bugs+%26%26+deploy+--force+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=120&lines=%24+sudo+hack+the+planet+%F0%9F%8C%8D;%24+while(alive)+%7B+eat();+sleep();+code();+%7D;%24+git+commit+-m+%22mass+destruction%22+%F0%9F%92%80;%24+rm+-rf+bugs+%26%26+deploy+--force+%F0%9F%9A%80" />
 </a>
 
 <br>
